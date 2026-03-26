@@ -1,4 +1,4 @@
-# AmoebaVirtualMachineV2
+# AmoebaVirtualMachine
 This is a VBA program that emulates a simple Von Neumann architecture computer.
 <br>Download the latest release [here](https://github.com/TheOrangeCow/AmoebaVirtualMachineV2/releases/tag/v1)
 
